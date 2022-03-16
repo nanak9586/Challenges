@@ -1,0 +1,28 @@
+{
+  "name": "test3",
+  "version": "1.0.0",
+  "description": "KPMG_Test",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanak9586/KPMG_Technical_Assesment.git"
+  },
+  "author": "Nanak_Chand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nanak9586/KPMG_Technical_Assesment/issues"
+  },
+  "homepage": "https://github.com/nanak9586/KPMG_Technical_Assesment#readme",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
